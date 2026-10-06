@@ -1,0 +1,6 @@
+{
+  "name": "SkillGap AI – Skill Gap Analysis & Career Guidance",
+  "description": "AI-powered skill gap analysis, job matching, readiness scoring, personalized learning roadmaps, and skill assessments based on resume and job descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
